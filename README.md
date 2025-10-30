@@ -7,3 +7,27 @@ Exemplos - clique nos links a seguir para acessar os repositórios correspondent
 - [**Workflow do GitHub Actions demonstrando o uso de Checkov, KICS, Kor e Gitleaks**](https://github.com/renatogroffe/workshop-seguranca-codigo_2025-10)
 - [**Pipeline do Azure DevOps demonstrando o uso da ferramenta Popeye**](https://github.com/renatogroffe/AzureDevOps-Popeye-Kubernetes-kind)
 - [**Pipeline do Azure DevOps demonstrando o uso do Kubescape**](https://github.com/renatogroffe/azuredevops-kubescape-kubernetes-kind)
+
+---
+
+## Informações sobre o evento
+
+Título da apresentação: **Segurança em Containers: boas práticas, ferramentas, pontos de atenção...**
+
+Data: **25/10/2025 (sábado)**
+
+Tecnologias e tópicos abordados: **Containers, Docker, Kubernetes, Azure DevOps, GitHub Actions, Azure Kubernetes Service, Azure Container Apps, kind, Linux, .NET, ASP.NET Core, NuGet, npm, pip, Python, Docker Scout, Checkov, KICS, Kor, Gitleaks, Popeye, Kubescape, Trivy...**
+
+Número de participantes: **16 pessoas**
+
+O MVPConf é um evento presencial promovido pela comunidade de MVPs Microsoft no Brasil, tendo acontecido nos dias 24 e 25 de Outubro de 2025 em São Paulo-SP e contando com participantes de todo o Brasil.
+
+Site do evento: **https://mvpconf.com.br | https://www.hubingressos.com.br/evento/mvpconf**
+
+Local: **UNIP - Paraíso/Vergueiro - Rua Vergueiro, 1211 - Aclimação - São Paulo-SP - CEP: 01533-000**
+
+Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
+
+Esta palestra foi realizada em conjunto com meu amigo **Diego Matos (Microsoft MVP)**.
+
+Deixamos aqui nossos agradecimentos à **Vanessa Valle**, ao **Rafael Paiva** e demais MVPs envolvidos com o evento por todo o apoio para que partipássemos como palestrantes.
