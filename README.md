@@ -20,7 +20,7 @@ Tecnologias e tópicos abordados: **Containers, Docker, Kubernetes, Azure DevOps
 
 Número de participantes: **16 pessoas**
 
-O MVPConf é um evento presencial promovido pela comunidade de MVPs Microsoft no Brasil, tendo acontecido nos dias 24 e 25 de Outubro de 2025 em São Paulo-SP e contando com participantes de todo o Brasil.
+O MVP Conf 2025 Brasil foi um evento presencial promovido pela comunidade de MVPs Microsoft no Brasil, tendo acontecido nos dias 24 e 25 de Outubro de 2025 em São Paulo-SP e contando com participantes de todo o Brasil.
 
 Site do evento: **https://mvpconf.com.br | https://www.hubingressos.com.br/evento/mvpconf**
 
@@ -30,4 +30,4 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
 Esta palestra foi realizada em conjunto com meu amigo **Diego Matos (Microsoft MVP)**.
 
-Deixamos aqui nossos agradecimentos à **Vanessa Valle**, ao **Rafael Paiva** e demais MVPs envolvidos com o evento por todo o apoio para que partipássemos como palestrantes.
+Deixamos aqui nossos agradecimentos à organização do MVP Conf,  aos coordenadores da trilha de Segurança - **Daniel Donda**, **Eduardo Popovici**, **Rebbeca Freire** - e participantes por todo o apoio em nossa palestra.
