@@ -31,3 +31,15 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 Esta palestra foi realizada em conjunto com meu amigo **Diego Matos (Microsoft MVP)**.
 
 Deixamos aqui nossos agradecimentos à organização do MVP Conf,  aos coordenadores da trilha de Segurança - **Daniel Donda**, **Eduardo Popovici**, **Rebbeca Freire** - e participantes por todo o apoio em nossa palestra.
+
+---
+
+![Renato e Diego palestrando](img/seg-03.jpg)
+
+![Renato e Diego palestrando](img/seg-02.jpg)
+
+![Renato e Diego palestrando](img/seg-11.jpg)
+
+![Renato palestrando](img/seg-09.jpg)
+
+![Renato palestrando](img/seg-08.jpg)
